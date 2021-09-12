@@ -1,1 +1,2 @@
 New file in feature-1 branch.
+add this line in feature-2 branch.
